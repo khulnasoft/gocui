@@ -10,7 +10,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/awesome-gocui/gocui"
+	"github.com/khulnasoft/gocui"
 )
 
 const NumGoroutines = 20

@@ -3,7 +3,7 @@ package main
 import (
 	"log"
 
-	"github.com/awesome-gocui/gocui"
+	"github.com/khulnasoft/gocui"
 )
 
 // layout generates the view

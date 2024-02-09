@@ -22,12 +22,12 @@ welcome your pull requests:
 ## Code of conduct
 Please note by participating in this project, you agree to abide by the [code of conduct].
 
-[code of conduct]: https://github.com/awesome-gocui/gocui/blob/master/CODE-OF-CONDUCT.md
+[code of conduct]: https://github.com/khulnasoft/gocui/blob/master/CODE-OF-CONDUCT.md
 
 ## Any contributions you make will be under the license indicated in the [license](LICENSE.md)
 In short, when you submit code changes, your submissions are understood to be
 under the same license as the rest of project. Feel free to contact the maintainers if that's a concern.
 
-## Report bugs using Github's [issues](https://github.com/awesome-gocui/gocui/issues)
+## Report bugs using Github's [issues](https://github.com/khulnasoft/gocui/issues)
 We use GitHub issues to track public bugs. Report a bug by [opening a new
-issue](https://github.com/awesome-gocui/gocui/issues/new); it's that easy!
+issue](https://github.com/khulnasoft/gocui/issues/new); it's that easy!

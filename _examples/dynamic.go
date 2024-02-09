@@ -9,7 +9,7 @@ import (
 	"log"
 	"strings"
 
-	"github.com/awesome-gocui/gocui"
+	"github.com/khulnasoft/gocui"
 )
 
 const delta = 1

@@ -1,10 +1,10 @@
 # GOCUI - Go Console User Interface
-[![CircleCI](https://circleci.com/gh/awesome-gocui/gocui/tree/master.svg?style=svg)](https://circleci.com/gh/awesome-gocui/gocui/tree/master)
-[![CodeCov](https://codecov.io/gh/awesome-gocui/gocui/branch/master/graph/badge.svg)](https://codecov.io/gh/awesome-gocui/gocui)
-[![Go Report Card](https://goreportcard.com/badge/github.com/awesome-gocui/gocui)](https://goreportcard.com/report/github.com/awesome-gocui/gocui)
-[![GolangCI](https://golangci.com/badges/github.com/awesome-gocui/gocui.svg)](https://golangci.com/badges/github.com/awesome-gocui/gocui.svg)
-[![GoDoc](https://godoc.org/github.com/awesome-gocui/gocui?status.svg)](https://godoc.org/github.com/awesome-gocui/gocui)
-![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/awesome-gocui/gocui.svg)
+[![CircleCI](https://circleci.com/gh/khulnasoft/gocui/tree/master.svg?style=svg)](https://circleci.com/gh/khulnasoft/gocui/tree/master)
+[![CodeCov](https://codecov.io/gh/khulnasoft/gocui/branch/master/graph/badge.svg)](https://codecov.io/gh/khulnasoft/gocui)
+[![Go Report Card](https://goreportcard.com/badge/github.com/khulnasoft/gocui)](https://goreportcard.com/report/github.com/khulnasoft/gocui)
+[![GolangCI](https://golangci.com/badges/github.com/khulnasoft/gocui.svg)](https://golangci.com/badges/github.com/khulnasoft/gocui.svg)
+[![GoDoc](https://godoc.org/github.com/khulnasoft/gocui?status.svg)](https://godoc.org/github.com/khulnasoft/gocui)
+![GitHub tag (latest SemVer)](https://img.shields.io/github/tag/khulnasoft/gocui.svg)
 
 Minimalist Go package aimed at creating Console User Interfaces.
 A community fork based on the amazing work of [jroimartin](https://github.com/jroimartin/gocui)
@@ -34,14 +34,14 @@ This fork has many improvements over the original work from [jroimartin](https:/
 * Many small improvements
 * Change Visibility of views
 
-For information about this org see: [awesome-gocui/about](https://github.com/awesome-gocui/about).
+For information about this org see: [khulnasoft/about](https://github.com/khulnasoft/about).
 
 ## Installation
 
 Execute:
 
 ```
-$ go get github.com/awesome-gocui/gocui
+$ go get github.com/khulnasoft/gocui
 ```
 
 ## Documentation
@@ -49,10 +49,10 @@ $ go get github.com/awesome-gocui/gocui
 Execute:
 
 ```
-$ go doc github.com/awesome-gocui/gocui
+$ go doc github.com/khulnasoft/gocui
 ```
 
-Or visit [godoc.org](https://godoc.org/github.com/awesome-gocui/gocui) to read it
+Or visit [godoc.org](https://godoc.org/github.com/khulnasoft/gocui) to read it
 online.
 
 ## Example
@@ -65,7 +65,7 @@ import (
 	"fmt"
 	"log"
 
-	"github.com/awesome-gocui/gocui"
+	"github.com/khulnasoft/gocui"
 )
 
 func main() {
@@ -133,7 +133,7 @@ func quit(g *gocui.Gui, v *gocui.View) error {
 * [fac](https://github.com/mkchoi212/fac): git merge conflict resolver
 * [jsonui](https://github.com/gulyasm/jsonui): Interactive JSON explorer for your terminal.
 * [cointop](https://github.com/miguelmota/cointop): Interactive terminal based UI application for tracking cryptocurrencies.
-* [lazygit](https://github.com/jesseduffield/lazygit): simple terminal UI for git commands.
-* [lazydocker](https://github.com/jesseduffield/lazydocker): The lazier way to manage everything docker.
+* [lazygit](https://github.com/khulnasoft/lazygit): simple terminal UI for git commands.
+* [lazydocker](https://github.com/khulnasoft/lazydocker): The lazier way to manage everything docker.
 
 Note: if your project is not listed here, let us know! :)
